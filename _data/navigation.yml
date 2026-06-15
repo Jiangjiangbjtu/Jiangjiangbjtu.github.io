@@ -20,7 +20,11 @@ main:
   - title: "Recruitment"
     url: /recruitment/
 
+  - title: "Team"
+    url: /team/
 
+  - title: "Gallery"
+    url: /gallery/
     
   # - title: "Portfolio"
   #  url: /portfolio/
