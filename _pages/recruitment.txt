@@ -1,0 +1,51 @@
+---
+title: "Recruitment 招生信息"
+permalink: /recruitment/
+author_profile: true
+---
+
+## Prospective Students 招生方向
+
+I am actively looking for motivated students interested in the following directions:
+
+- UAV-assisted wireless communications
+- Aerial intelligent reflecting surfaces (AIRS)
+- Mobile edge computing and task offloading
+- Resource allocation and optimization
+
+## Openings 招生名额
+
+- **Master's students (硕士研究生)**: 2-3 positions per year
+- **Undergraduate research assistants (本科科研助手)**: Open year-round
+
+## Requirements 对学生的期望
+
+- **Strong fundamentals** in mathematics (linear algebra, optimization, probability)
+- **Programming skills**: proficiency in Python and/or MATLAB
+- **Communication skills**: ability to read and write in English at an academic level
+- **Self-motivation**: willing to commit to research and meet deadlines
+
+Prior experience in wireless communications or optimization is a plus but not required for undergraduates.
+
+## What I Offer 我能提供
+
+- Active research funding and computing resources
+- Weekly one-on-one meetings and group seminars
+- Opportunities to publish in top-tier journals and conferences
+- Recommendation letters for further studies (PhD applications, study abroad)
+- A collaborative and supportive lab environment
+
+## How to Apply 如何申请
+
+Please send an email to **jww@tiangong.edu.cn** with the subject line:
+
+> **[Research Application] Your Name - Your Affiliation**
+
+Include the following in your email:
+
+1. A brief introduction of yourself
+2. Your CV (with GPA, ranking, and any research/project experience)
+3. Why you are interested in my research
+4. Any prior research outputs (papers, projects, code)
+
+I read every email and will reply within a week.
